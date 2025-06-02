@@ -8,11 +8,6 @@ This project demonstrates a system for dynamically adjusting in-game difficulty 
 This is something I have been working on to improve my skills and to overall understand more of how things work. Thank you for checking it out!
 
 
-Dynamic In-Game Difficulty Adjustment
-
-This project demonstrates a system for dynamically adjusting in-game difficulty based on player performance, creating a more engaging and adaptive gaming experience. The core idea is to train a machine learning model to predict an optimal difficulty level given a player's skill and in-game metrics, then continuously adjust the game's difficulty during a simulated gameplay loop.
-
-
 Project Breakdown
 
 1. Game Simulation: A simplified game environment is simulated to generate realistic player performance data. This simulation takes into account player_skill and difficulty to produce accuracy, completion_time, and deaths for each game session.
